@@ -3,7 +3,7 @@ import subprocess
 import re
 import os
 
-TOKEN = "MTQ4MDI4NzU3NjczNTYxMzE3Mg.GuR1Fc.KU_Ser_Lh1Qgc83apzf6La48v2CS68qr5EWz10"
+TOKEN = "MTQ4MDI4NzU3NjczNTYxMzE3Mg.GjQSh5.ChQ-HjfHq_y8ELoJxNNdlehz0izOlKYSjNZ9tc"
 
 intents = discord.Intents.default()
 intents.message_content = True
